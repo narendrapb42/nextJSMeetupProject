@@ -1,8 +1,8 @@
-##NextJSMeetups
+## NextJSMeetups
 
 A simple Next.js project for managing meetups. Users can add new meetups and view meetup details. This project showcases my expertise in Next.js, including dynamic routing, API routes, and data handling.
 
-🚀 Features
+## 🚀 Features
 
 📝 Add Meetups: Users can submit new meetup events.
 
@@ -10,7 +10,7 @@ A simple Next.js project for managing meetups. Users can add new meetups and vie
 
 📄 Meetup Details Page: Dynamic routing to view individual meetup details.
 
-🌎 Next.js Features Used:
+## 🌎 Next.js Features Used:
 
 File-based Routing (pages structure)
 
@@ -20,7 +20,7 @@ API Routes (/api/new-meetup for data storage)
 
 SSR & SSG (Pre-rendering for better performance)
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Next.js (React Framework)
 
@@ -30,7 +30,7 @@ CSS Modules (Styling)
 
 MongoDB (Database for storing meetups)
 
-🚀 Getting Started
+## 🚀 Getting Started
 
 1️⃣ Clone the Repository
 
@@ -47,18 +47,18 @@ npm run dev
 
 Open http://localhost:3000 to view in your browser.
 
-📌 API Routes
+## 📌 API Routes
 
 POST /api/new-meetup → Adds a new meetup to the database.
 
-🔥 Live Demo
+## 🔥 Live Demo
 
-🚀 Check out the live project: Deployed on Vercel
+## 🚀 Check out the live project: Deployed on Vercel -> https://vercel.com/narendrapb42s-projects/next-js-meetup-project/6HrV9kSDZQYGY7fTFmXWu6c7BHQE
 
-🤝 Contributing
+## 🤝 Contributing
 
 Feel free to contribute by submitting a pull request.
 
-📜 License
+## 📜 License
 
 This project is open-source under the MIT License.
