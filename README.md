@@ -34,8 +34,8 @@ MongoDB (Database for storing meetups)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/reactmeetups.git
-cd reactmeetups
+git clone -> https://github.com/narendrapb42/nextJSMeetupProject
+cd nextJSMeetupProject
 
 2️⃣ Install Dependencies
 
@@ -53,7 +53,7 @@ POST /api/new-meetup → Adds a new meetup to the database.
 
 ## 🔥 Live Demo
 
-## 🚀 Check out the live project: Deployed on Vercel -> https://vercel.com/narendrapb42s-projects/next-js-meetup-project/6HrV9kSDZQYGY7fTFmXWu6c7BHQE
+## 🚀 Check out the live project: Deployed on Vercel -> https://next-js-meetup-project-steel.vercel.app/
 
 ## 🤝 Contributing
 
